@@ -1,7 +1,11 @@
 # Hi there 👋, I'm Vaishnavi Singh
+Hi! I'm an aspiring **Full Stack Developer** passionate about building scalable web applications and solving real-world problems through clean and efficient code.  
+I love working across the entire stack — from designing frontend interfaces to architecting backend systems and managing databases.  
+I'm constantly exploring new technologies and sharpening my skills in DSA, web development, and database systems.
 
-🎓 B.Tech CSE (AI) at IET Lucknow (2023–2027)  
-💻 Passionate about Web Development, Data Analysis & Competitive Programming  
+✨ Always learning.  
+💡 Always building.  
+🚀 Always improving.
 
 ---
 
