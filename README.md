@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Vaishnavi Singh
 
-<!--
-**Vaishnavi0574/Vaishnavi0574** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI) at IET Lucknow (2023–2027)  
+💻 Passionate about Web Development, Data Analysis & Competitive Programming  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚒️ Tech Stack
+**Languages:** C++, Python, JavaScript, SQL (PostgreSQL)  
+**Frontend:** HTML, CSS, React.js, TailwindCSS  
+**Backend & DB:** Node.js, Express.js, MongoDB  
+**Tools:** VS Code, pgAdmin, Git, GitHub  
+
+---
+
+## 🚀 Projects
+
+**Travel-Website** 🌐 (HTML/CSS)  
+Personal project to showcase travel destinations.  
+
+**Bank Management System** 🏦 (C++)  
+Console-based banking operations with data handling.  
+
+**WEB_AUTOMATION-Internshala** (JavaScript)  
+Automated web tasks using JS scripts.  
+
+**GAME-Snake** 🐍 (C++)  
+Classic snake game with score tracking.  
+
+**Studysync** 📚  
+Learning management website with HTML/CSS.  
+
+**LearnEd_E-learning_Website** 🎓  
+E-learning platform with course listings and resources.
