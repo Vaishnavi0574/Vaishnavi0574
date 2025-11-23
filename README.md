@@ -42,7 +42,10 @@ E-learning platform with course listings and resources.
 ![PostgreSQL](https://img.shields.io/badge/SQL%20(PostgreSQL)-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![pgAdmin 4](https://img.shields.io/badge/pgAdmin4-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
@@ -60,11 +63,6 @@ E-learning platform with course listings and resources.
 ![Database Management](https://img.shields.io/badge/Database%20Management-4EA94B?style=for-the-badge)
 ![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-FF6F00?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOPs-FF5733?style=for-the-badge)
-badge&logo=mongodb&logoColor=white)
 
-🛠️ **Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 
