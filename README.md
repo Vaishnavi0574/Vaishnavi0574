@@ -64,5 +64,13 @@ E-learning platform with course listings and resources.
 ![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-FF6F00?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOPs-FF5733?style=for-the-badge)
 
+# 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-singh-36b7112a4/c)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnavisingh0574@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vaishnavi_s64)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/happy_dice_33)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/vaishnavi0574)
+
 
 
