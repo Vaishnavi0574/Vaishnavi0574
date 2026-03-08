@@ -69,8 +69,6 @@ E-learning platform with course listings and resources.
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![pgAdmin 4](https://img.shields.io/badge/pgAdmin4-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Database](https://img.shields.io/badge/Database-4EA94B?style=for-the-badge)
-![Computer Networks](https://img.shields.io/badge/Computer%20Networks-FF6F00?style=for-the-badge)
 
 ### 🧰 Libraries
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -88,6 +86,9 @@ E-learning platform with course listings and resources.
 
 ### 📚 Coursework
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0A66C2?style=for-the-badge)
+![Database](https://img.shields.io/badge/Database-4EA94B?style=for-the-badge)
 ![Database Management](https://img.shields.io/badge/Database%20Management-4EA94B?style=for-the-badge)
 ![Data Modelling](https://img.shields.io/badge/Data%20Modelling-FF6F00?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOPs-FF5733?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-FF6F00?style=for-the-badge)
+
