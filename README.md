@@ -36,6 +36,22 @@ Learning management website with HTML/CSS.
 **LearnEd_E-learning_Website** 🎓  
 E-learning platform with course listings and resources.
 
+### 📊 Data Analysis Projects
+**Spotify Data Analysis & Query Optimization** | PostgreSQL, SQL, pgAdmin4  
+- Developed SQL workflow on Spotify dataset with schema design, normalization, and multi-level querying.  
+- Used CTEs, window functions, and conditional aggregation to compare Spotify vs YouTube streams.  
+- Optimized queries by ~45% using indexing and execution-plan tuning.  
+
+**Bank Loan Financial Data Analysis** | SQL, Python, Pandas, NumPy, Tableau  
+- Analyzed trends and correlations among loan variables to identify risk indicators.  
+- Created interactive Tableau dashboards for KPIs like MTD/PMTD loan applications and loan status distribution.  
+
+**Airbnb Listing Data Analysis** | Python, Pandas, NumPy, Matplotlib  
+- Conducted EDA on Airbnb listings, analyzing pricing trends, availability patterns, and review activity.  
+- Visualized insights using Matplotlib to identify factors influencing listing performance and short-term rental demand patterns.  
+
+---
+
 # ⚒️ Tech Toolbox
 
 ### 💻 Languages
@@ -51,6 +67,13 @@ E-learning platform with course listings and resources.
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![pgAdmin 4](https://img.shields.io/badge/pgAdmin4-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Database](https://img.shields.io/badge/Database-4EA94B?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-FF6F00?style=for-the-badge)
+
+### 🧰 Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -61,16 +84,8 @@ E-learning platform with course listings and resources.
 ![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🧠 Technical Skills
+### 📚 Coursework
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0A66C2?style=for-the-badge)
 ![Database Management](https://img.shields.io/badge/Database%20Management-4EA94B?style=for-the-badge)
-![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-FF6F00?style=for-the-badge)
+![Data Modelling](https://img.shields.io/badge/Data%20Modelling-FF6F00?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOPs-FF5733?style=for-the-badge)
-
-# 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-singh-36b7112a4/c)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnavisingh0574@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vaishnavi_s64)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/happy_dice_33)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/vaishnavi4585)
